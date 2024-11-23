@@ -22,7 +22,7 @@ Q10: tilecol=1732 tilerow=1035
 
 Q11: It is showing a different location on the map
 
-Q12: theres no difference in the tile matrix
+Q12: theres no difference in the tile matrix. EPSG:4326:10 where 10 is the zone number. 
 
 
 
